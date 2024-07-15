@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm Ateefa Hafeez, a passionate developer with a keen interest in web development and Android app development. 
 
 ## About Me
-- 🎓 Currently in my fifth semester at university.
+- 🎓 Currently in my fifth semester at FAST(NUCES) Lahore
 - 📱 Learning Android app development.
 - 🔍 Exploring Kotlin, JavaScript, and Node.js.
 
