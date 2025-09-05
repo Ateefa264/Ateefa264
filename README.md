@@ -1,8 +1,8 @@
 # Ateefa Hafeez
 
-Welcome to my GitHub profile! I'm Ateefa Hafeez, a passionate developer with a strong interest in web and Android app development.
+Welcome to my GitHub profile! I'm Ateefa Hafeez, a passionate developer with a strong interest in web and Mobile app development.
 
-Currently, I’m in my 7th semester at FAST (NUCES) Lahore, and I’m expanding my skills in Flutter, Kotlin, C++, Python, C, SQL, Assembly, and learning JavaScript. I’m actively working on various projects involving Android apps and websites, while also diving into backend development with Node.js to create more efficient and scalable applications.
+Currently, I’m in my 7th semester at FAST (NUCES) Lahore, and I’m expanding my skills in Flutter(Dart), Kotlin, C++, Python, C, SQL, Assembly, and JavaScript. I’m actively working on various projects involving mobile apps using Flutter and sometimes Android Development, while also diving into Web Development with MERN to create more efficient and scalable platforms.
 
 ## Get in Touch
 - [LinkedIn](www.linkedin.com/in/ateefa-hafeez)
